@@ -1,0 +1,85 @@
+// !$*UTF8*$!
+{
+	172754BD107597F200D0347B /* Unit Tests */ = {
+		activeExec = 0;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 46348BF91156228200F104DF /* currency */;
+		activeTarget = 8D1107260486CEB800E47090 /* currency */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* currency */,
+		);
+		codeSenseManager = 46348C07115622A100F104DF /* Code sense */;
+		executables = (
+			46348BF91156228200F104DF /* currency */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 290857602;
+			PBXWorkspaceStateSaveDate = 290857602;
+		};
+		sourceControlManager = 46348C06115622A100F104DF /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	46348BF91156228200F104DF /* currency */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = currency;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	46348C06115622A100F104DF /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	46348C07115622A100F104DF /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4D1A51A110A4FF5D0046A98A /* Compile */ = {
+		activeExec = 0;
+	};
+	4D1A51A510A4FF640046A98A /* Embed */ = {
+		activeExec = 0;
+	};
+	4DE339F60D74FCDD00ADB6EE /* rb_main.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1189.39, 600}}";
+			sepNavSelRange = "{257, 0}";
+			sepNavVisRange = "{197, 357}";
+		};
+	};
+	8D1107260486CEB800E47090 /* currency */ = {
+		activeExec = 0;
+		executables = (
+			46348BF91156228200F104DF /* currency */,
+		);
+	};
+}
